@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "153281120383",
+    "firebase_url": "https://maximal-relic-220420.firebaseio.com",
+    "project_id": "maximal-relic-220420",
+    "storage_bucket": "maximal-relic-220420.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153281120383:android:a135155b13008f44c5d74a",
+        "android_client_info": {
+          "package_name": "com.kameng.e_learner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153281120383-dglvg9b3keh7mb5njv6n9f13d2r6059i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTB9CPJBNd8CVZoI055m6ZqtXjhc5a3zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153281120383-dglvg9b3keh7mb5njv6n9f13d2r6059i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
